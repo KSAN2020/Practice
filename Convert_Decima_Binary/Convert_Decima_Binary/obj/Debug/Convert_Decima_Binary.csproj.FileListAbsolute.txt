@@ -1,0 +1,7 @@
+C:\Users\smasamery\Desktop\Susana Masamery\Convert_Decima_Binary\Convert_Decima_Binary\bin\Debug\Convert_Decima_Binary.exe.config
+C:\Users\smasamery\Desktop\Susana Masamery\Convert_Decima_Binary\Convert_Decima_Binary\bin\Debug\Convert_Decima_Binary.exe
+C:\Users\smasamery\Desktop\Susana Masamery\Convert_Decima_Binary\Convert_Decima_Binary\bin\Debug\Convert_Decima_Binary.pdb
+C:\Users\smasamery\Desktop\Susana Masamery\Convert_Decima_Binary\Convert_Decima_Binary\obj\Debug\Convert_Decima_Binary.csprojResolveAssemblyReference.cache
+C:\Users\smasamery\Desktop\Susana Masamery\Convert_Decima_Binary\Convert_Decima_Binary\obj\Debug\Convert_Decima_Binary.csproj.CoreCompileInputs.cache
+C:\Users\smasamery\Desktop\Susana Masamery\Convert_Decima_Binary\Convert_Decima_Binary\obj\Debug\Convert_Decima_Binary.exe
+C:\Users\smasamery\Desktop\Susana Masamery\Convert_Decima_Binary\Convert_Decima_Binary\obj\Debug\Convert_Decima_Binary.pdb
